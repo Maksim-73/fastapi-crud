@@ -11,6 +11,10 @@ API для управления пользователями с валидаци
 
 ## Запуск
 
+### Клонирование репозитория 
+`git clone https://github.com/Maksim-73/fastapi-crud.git ` \
+`cd fastapi-crud`
+
 ### Локально
 
 `pip install -r requirements.txt` \
