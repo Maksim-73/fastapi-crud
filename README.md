@@ -24,3 +24,7 @@ API для управления пользователями с валидаци
 
 `bashdocker build -t fastapi-crud .` \
 `docker run -p 8000:8000 fastapi-crud`
+
+### Открыть Swagger
+
+http://localhost:8000/docs
